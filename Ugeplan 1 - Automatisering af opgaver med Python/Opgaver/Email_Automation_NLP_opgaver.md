@@ -1,8 +1,8 @@
 # 📧 Automating Email Sorting and Responses with NLP
 
-> **Assignment Topic:** Natural Language Processing and Email Automation
-> **Technology:** Python, IMAP, NLP, Machine Learning
-> **Application Area:** Email Management and Automation
+> **Assignment Topic:** Natural Language Processing and Email Automation.
+> **Technology:** Python, IMAP, NLP, Machine Learning.
+> **Application Area:** Email Management and Automation.
 
 ---
 
