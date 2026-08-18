@@ -612,3 +612,6 @@ email-nlp-automation/
 ```
 
 > **Note:** GitHub renders Mermaid diagrams in `.md` files, so no external image files are required for the diagrams included above.
+
+## Opgaver fordeling 
+Jeg kan varmt anbefale dette projekt/opgave. Du kan arbejde i en gruppe på mindst 2 og højst 4 personer eller individuelt, hvis du ikke har en gruppepartner. Det vigtigste er, at I eksperimenterer, prøver forskellige ting af og får dem til at spille godt sammen. 
